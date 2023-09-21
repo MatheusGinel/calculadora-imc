@@ -17,4 +17,4 @@ O resultado a seguir com 'prints' funcionais:
 ![3](https://github.com/MatheusGinel/calculadora-imc/assets/99911565/a517a88e-d9a1-411a-9486-f884756f452a)
 
 ## ✒️ Desenvolvedor
-[Matheus Neves](https://github.com/MatheusGinel)
+[Matheus Azevedo Neves](https://github.com/MatheusGinel)
